@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-advanced",
+  "version": "1.0.0",
+  "description": "Node.js advanced course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/2ROGHER"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "@roger",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
